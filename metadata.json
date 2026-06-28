@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Vendor AI E-Commerce Platform",
+  "description": "An advanced multi-vendor e-commerce platform featuring AI product description generation, price suggestion, chatbot, seller analytics dashboard, bidding/auctions, live selling, and dispute arbitration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
