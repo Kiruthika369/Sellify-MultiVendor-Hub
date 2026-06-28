@@ -4,6 +4,8 @@
 
 # Sellify Multi-Vendor Hub
 
+**Live Deployed App:** [https://sellify-multivendor-hub.onrender.com](https://sellify-multivendor-hub.onrender.com)
+
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/085ab7b0-c09c-4009-b65b-8723b301bee5
