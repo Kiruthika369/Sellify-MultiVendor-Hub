@@ -231,9 +231,6 @@ Add tests for new features
 
 Update documentation accordingly
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 🙏 Acknowledgments
 React.js
 
@@ -251,7 +248,7 @@ Project Link: (https://github.com/Kiruthika369/Sellify-MultiVendor-Hub)b
 🌟 Quick Start
 bash
 # Clone and install dependencies
-git clone https://github.com/yourusername/sellify-multivendor-hub.git
+(https://github.com/Kiruthika369/Sellify-MultiVendor-Hub.git)
 cd sellify-multivendor-hub
 
 # Setup backend
