@@ -8,11 +8,10 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: https://sellify-multivendor-hub.onrender.com
     steps:
-      - name: Create GitHub Deployment
-        uses: chrby/deployment-action@v2
-        with:
-          token: "${{ github.token }}"
-          environment-url: "https://sellify-multivendor-hub.onrender.com"
-          environment: production
-          initial-status: success
+      - name: Deploy Confirmation
+        run: |
+          echo "Successfully deployed to Render!"
