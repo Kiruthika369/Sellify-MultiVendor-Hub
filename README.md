@@ -61,42 +61,6 @@ Application will be available at:
 Frontend: http://localhost:3000
 Backend API: http://localhost:5000/api
 
-
-📁 Project Structure
-text
-sellify-multivendor-hub/
-├── backend/
-│   ├── src/
-│   │   ├── config/         # Configuration files
-│   │   ├── controllers/    # Route controllers
-│   │   ├── middlewares/    # Custom middleware
-│   │   ├── models/         # Database models
-│   │   ├── routes/         # API routes
-│   │   ├── services/       # Business logic
-│   │   ├── utils/          # Utility functions
-│   │   └── app.js          # Express app
-│   ├── .env
-│   ├── package.json
-│   └── server.js
-├── frontend/
-│   ├── src/
-│   │   ├── assets/         # Images, fonts, etc.
-│   │   ├── components/     # Reusable components
-│   │   ├── features/       # Feature-based modules
-│   │   ├── hooks/          # Custom React hooks
-│   │   ├── layouts/        # Page layouts
-│   │   ├── pages/          # Page components
-│   │   ├── store/          # Redux store
-│   │   ├── utils/          # Utility functions
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── .env
-│   ├── package.json
-│   └── tailwind.config.js
-├── docker-compose.yml
-├── README.md
-└── LICENSE
-
 📞 Contact & Support :
 
 GitHub: Kiruthika369
